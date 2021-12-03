@@ -16,7 +16,7 @@ Objetivo:
   - [APIS GRAPHQL](https://github.com/APIs-guru/graphql-apis)
 - El wireframe es netamente referencial, la parte visual debe realizarse con una librería de diseño existente. Ejemplo: Chakra UI, Ant Design, Material UI, Tailwind CSS, etc.
 - Utilizar componentes reutilizables, orientado a Atomic design
-- Utilizar Clean Architecture
+- Utilizar Clean Architecture y principios SOLID
 
 ## Historias del usuario
 
